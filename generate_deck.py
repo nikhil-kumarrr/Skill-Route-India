@@ -830,7 +830,7 @@ def create_presentation():
 
     links_text = [
         ("Live Web App:", "https://skill-route-india.onrender.com"),
-        ("GitHub Repository:", "https://github.com/nitish11930/skill-route-india-"),
+        ("GitHub Repository:", "https://github.com/nikhil-kumarrr/Skill-Route-India"),
         ("Health Endpoint:", "/api/health (Live verification)"),
         ("Local One-Command Run:", "./start.sh (Port 8000 + 5173)")
     ]

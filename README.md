@@ -12,6 +12,7 @@
 [![Gemini](https://img.shields.io/badge/Gemini-REST_API-4285F4?logo=google&logoColor=white)](https://ai.google.dev/)
 [![Vite](https://img.shields.io/badge/Vite-6.x-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 *Graph-powered skill gap analysis · Dependency-ordered learning roadmaps · AI career coaching grounded in real graph evidence*
 
@@ -105,8 +106,8 @@ User → React Frontend → FastAPI Backend → Neo4j AuraDB (Graph DB)
 
 ```sh
 # Clone the repository
-git clone https://github.com/nitish11930/skill-route-india-.git
-cd skill-route-india-
+git clone https://github.com/nikhil-kumarrr/Skill-Route-India.git
+cd Skill-Route-India
 
 # Configure environment
 cp .env.example .env
@@ -273,6 +274,12 @@ skill-route-india/
 | [httpx](https://www.python-httpx.org/) | Async HTTP client for Gemini REST |
 | [Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans) | UI typography |
 | [Pydantic v2](https://docs.pydantic.dev/) | Data validation & settings |
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE) — see the [LICENSE](LICENSE) file for full details.
 
 ---
 
