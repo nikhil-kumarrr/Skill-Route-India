@@ -4,7 +4,7 @@ SkillRoute India is an AI-powered Career Navigator and Prerequisite Graph engine
 
 ## Stack Overview
 - **Backend:** Python 3.9+, FastAPI, Neo4j Python Driver, Gemini REST API, Pydantic v2, pytest.
-- **Frontend:** React 19, Vite, TypeScript, Tailwind CSS, Plus Jakarta Sans, Material Symbols Outlined. Adapts Lumina SaaS styling from the preserved Stitch export, with working core screens and six labeled prototypes.
+- **Frontend:** React 19, Vite, TypeScript, Tailwind CSS, Plus Jakarta Sans, Material Symbols Outlined. Modern Lumina SaaS styling with responsive core screens and six prototype labs.
 - **Database:** Neo4j AuraDB property graph with in-memory graph fallback for honest Demo Mode.
 
 ## Graph Schema Specifications

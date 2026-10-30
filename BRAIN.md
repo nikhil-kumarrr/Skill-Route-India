@@ -4,7 +4,6 @@
 Working local hackathon core implemented and verified. Exact hackathon Neo4j product rubric requirements are PENDING from user, never officially verified. Live service credentials are not configured; demo mode is explicit.
 
 ## Architecture and files
-- Original Stitch export: `stitch_skillroute_india_ai_career_navigator/` — preserved.
 - React 19 + TypeScript + Vite + Tailwind 4: `frontend/`.
 - Python 3.9-compatible FastAPI: `backend/app/`.
 - Neo4j graph schema: Role REQUIRES Skill, Skill DEPENDS_ON Skill, Resource TEACHES Skill.

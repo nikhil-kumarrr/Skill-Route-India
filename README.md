@@ -240,8 +240,6 @@ skill-route-india/
 │       ├── components/            # Header, Sidebar
 │       ├── services/api.ts        # Typed API client
 │       └── types/index.ts         # Shared TypeScript types
-├── stitch_skillroute_india_ai_career_navigator/
-│   └── [13 preserved Stitch screens + DESIGN.md]
 ├── docs/screenshots/              # Architecture & UI screenshots
 ├── .env.example                   # Safe credential template
 ├── AGENTS.md                      # Engineering guidelines & guardrails

@@ -378,7 +378,7 @@ def create_presentation():
     # Left Column: Tech Stack Cards
     arch_cards = [
         ("Client Layer (React 19 & Vite)",
-         "TypeScript, Tailwind CSS, Plus Jakarta Sans, Stitch design tokens, interactive topological graph visualizer & responsive dashboard.",
+         "TypeScript, Tailwind CSS, Plus Jakarta Sans, modern design system, interactive topological graph visualizer & responsive dashboard.",
          ACCENT_CYAN),
         ("API Gateway (FastAPI Backend)",
          "Python 3.9+, async route handlers, Pydantic v2 validation, 20/20 pytest test coverage (0.32s), in-memory graph fallback engine.",
@@ -642,7 +642,7 @@ def create_presentation():
         ("CTC Salary Benchmarks:", "Real salary ranges across Tier-1 GCCs (₹12L to ₹40L PA) based on Indian tech compensation data."),
         ("Hub Focus Targeting:", "Identifies specific regional talent hubs: Bengaluru Outer Ring Road, Hyderabad HITEC City, Pune Hinjewadi."),
         ("Mock Interview Triage:", "Prototype lab testing candidate preparedness for GCC architecture rounds."),
-        ("Clear Prototype Labeling:", "Faithfully implements Stitch prototypes with transparent 'PROTOTYPE LAB' tags so judges see honest engineering.")
+        ("Clear Prototype Labeling:", "Transparent 'PROTOTYPE LAB' tags so evaluators and users see honest, reliable engineering.")
     ]
     for h, d in features_s9:
         ph = tf_la.add_paragraph()
